@@ -72,5 +72,5 @@ Simple stock market UI built with JavaScript to experiment with dynamic data and
 ### 📫 Contact
 
 - GitHub: [@D3XK1M](https://github.com/D3XK1M)  
-- Email: *(add your preferred email here)*  
-- LinkedIn / Portfolio: *(add when ready)*  
+- Email: *dextermunene05@gmail.com*  
+- LinkedIn / Portfolio: *https://www.linkedin.com/in/dexter-kimathi-982044328/*  
