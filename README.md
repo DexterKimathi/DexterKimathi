@@ -16,7 +16,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" />
+---
 
 ## 🔥 What I'm Up To
 
@@ -27,7 +27,7 @@
 | 🎯 **Goal** | Backend or Android internship where I can ship real features fast |
 | 🌍 **Based** | Nairobi, Kenya |
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" />
+---
 
 ## 🛠️ Tech Stack
 
@@ -37,7 +37,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" />
+---
 
 ## 📊 GitHub Stats
 
@@ -53,7 +53,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" />
+---
 
 ## 📈 Contribution Activity
 
@@ -61,7 +61,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DexterKimathi&bg_color=282828&color=d79921&line=d65d0e&point=ebdbb2&area=true&hide_border=true" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" />
+---
 
 ## 🐍 Contributions Snake
 
@@ -73,15 +73,15 @@
   </picture>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" />
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DexterKimathi&theme=gruvbox&no-frame=true&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DexterKimathi&theme=gruvbox&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" />
+---
 
 ## 🚀 Featured Projects
 
@@ -94,7 +94,7 @@
 | [dsa_python_ec](https://github.com/DexterKimathi/dsa_python_ec) | Data structures & algorithms practice | Python |
 | [FoodShare-Nairobi](https://github.com/VictorNzai/FoodShare-Nairobi) | Connects food donors to charities in Nairobi | JavaScript |
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" />
+---
 
 ## 💬 Dev Quote
 
