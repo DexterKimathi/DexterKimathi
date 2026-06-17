@@ -75,14 +75,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DexterKimathi&theme=gruvbox&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | What it does | Stack |
