@@ -21,8 +21,8 @@
 
 | | |
 |---|---|
-| **Building** | [Endesha](https://github.com/DexterKimathi/EndeshaApp) â€” a ride-hailing ecosystem (rider, driver & mobile) |
-| **Learning** | Spring Boot Â· Kotlin coroutines Â· REST API design |
+| **Building** | [Endesha](https://github.com/DexterKimathi/EndeshaApp) ” a ride-hailing ecosystem (rider, driver & mobile) |
+| **Learning** | Spring Boot · Kotlin coroutines · REST API design |
 | **Goal** | Backend or Android internship where I can ship real features fast |
 | **Based** | Nairobi, Kenya |
 
@@ -81,8 +81,8 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [EndeshaApp](https://github.com/DexterKimathi/EndeshaApp) | Rider-side ride-hailing app | Kotlin Â· Android |
-| [EndeshaDriver](https://github.com/DexterKimathi/EndeshaDriver) | Driver-side companion app | Kotlin Â· Android |
+| [EndeshaApp](https://github.com/DexterKimathi/EndeshaApp) | Rider-side ride-hailing app | Kotlin · Android |
+| [EndeshaDriver](https://github.com/DexterKimathi/EndeshaDriver) | Driver-side companion app | Kotlin · Android |
 | [Endesha-mobile](https://github.com/DexterKimathi/Endesha-mobile) | Mobile experience layer | Kotlin |
 | [Stock-Market](https://github.com/DexterKimathi/Stock-Market) | Stock market UI with dynamic data | JavaScript |
 | [dsa_python_ec](https://github.com/DexterKimathi/dsa_python_ec) | Data structures & algorithms practice | Python |
@@ -99,5 +99,5 @@
 ---
 
 <div align="center">
-  <sub>Open to internships and junior roles â€” let's build something real together.</sub>
+  <sub>Open to internships and junior roles ” let's build something real together.</sub>
 </div>
