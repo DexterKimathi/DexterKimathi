@@ -1,76 +1,102 @@
-<h1 align="center">Hey, I'm Dexter Kimathi</h1>
+<div align="center">
 
-<p align="center">
-  <b>Builder of small apps, future backend & Android engineer.</b><br/>
-  Nairobi, Kenya · Learning by shipping real projects.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=D79921&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Dexter+Kimathi;Backend+%26+Android+Engineer+in+the+making;Building+real+products+that+ship;CS+Student+%40+Strathmore+University" alt="Typing SVG" />
 
----
+<br/>
 
-###  About Me
+<img src="https://komarev.com/ghpvc/?username=D3XK1M&label=Profile+Views&color=d79921&style=flat-square" />
+&nbsp;
+<a href="mailto:dextermunene05@gmail.com"><img src="https://img.shields.io/badge/Email-d65d0e?style=flat-square&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/dexter-kimathi-982044328/"><img src="https://img.shields.io/badge/LinkedIn-458588?style=flat-square&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/D3XK1M"><img src="https://img.shields.io/badge/GitHub-282828?style=flat-square&logo=github&logoColor=ebdbb2" /></a>
 
--  Computer science student who likes turning ideas into working code  
--  Currently hacking on the **Endesha** ride-hailing ecosystem (rider, driver & mobile apps)  
--  Interested in Android, APIs, and clean, readable code  
--  Open to internships and junior roles where I can learn fast and contribute early  
-
----
-
-### Tech I Use
-
-- **Languages:** Kotlin, JavaScript, HTML, CSS  
-- **Mobile:** Android (Kotlin, Android Studio)  
-- **Web & Backend:** Vanilla JS, REST-style APIs, JSON  
-- **Tools:** Git, GitHub, VS Code, Android Studio  
+</div>
 
 ---
 
-###  Selected Projects
+## 🔥 What I'm Up To
 
-####  Endesha Platform
-Ride-hailing apps exploring real-world flows (rider, driver, and mobile experiences).
-
-- [EndeshaApp](https://github.com/D3XK1M/EndeshaApp)  
-- [Endesha-mobile](https://github.com/D3XK1M/Endesha-mobile)  
-- [EndeshaDriver](https://github.com/D3XK1M/EndeshaDriver)  
-
----
-
-####  Stock-Market
-Simple stock market UI built with JavaScript to experiment with dynamic data and interface logic.
-
-- Repo: [Stock-Market](https://github.com/D3XK1M/Stock-Market)
+| | |
+|---|---|
+| 🚀 **Building** | [Endesha](https://github.com/D3XK1M/EndeshaApp) — a ride-hailing ecosystem (rider, driver & mobile) |
+| 📚 **Learning** | Spring Boot · Kotlin coroutines · REST API design |
+| 🎯 **Goal** | Backend or Android internship where I can ship real features fast |
+| 🌍 **Based** | Nairobi, Kenya |
 
 ---
 
-####  Collabs & Experiments
+## 🛠️ Tech Stack
 
-- [FoodShare-Nairobi](https://github.com/VictorNzai/FoodShare-Nairobi) – connecting food donors to charities in Nairobi  
-- [Finance-App](https://github.com/Steven-Yabann/Finance-App)  
-- [Festaevents2](https://github.com/Nyambura55/Festaevents2)  
+**Languages**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logoColor=white)
+
+**Mobile & Backend**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_APIs-d65d0e?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-###  GitHub Snapshot
+## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=D3XK1M&show_icons=true&theme=transparent" 
-    alt="Dexter's GitHub stats" 
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3XK1M&layout=compact&theme=transparent" 
-    alt="Top languages" 
-  />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=D3XK1M&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3XK1M&layout=compact&theme=gruvbox&hide_border=true" height="165" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=D3XK1M&theme=gruvbox&hide_border=true" />
+
+</div>
 
 ---
 
-### 📫 Contact
+## 🏆 GitHub Trophies
 
-- GitHub: [@D3XK1M](https://github.com/D3XK1M)  
-- Email: *dextermunene05@gmail.com*  
-- LinkedIn / Portfolio: *https://www.linkedin.com/in/dexter-kimathi-982044328/*  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=D3XK1M&theme=gruvbox&no-frame=true&column=7&margin-w=4" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [EndeshaApp](https://github.com/D3XK1M/EndeshaApp) | Rider-side ride-hailing app | Kotlin · Android |
+| [EndeshaDriver](https://github.com/D3XK1M/EndeshaDriver) | Driver-side companion app | Kotlin · Android |
+| [Endesha-mobile](https://github.com/D3XK1M/Endesha-mobile) | Mobile experience layer | Kotlin |
+| [Stock-Market](https://github.com/D3XK1M/Stock-Market) | Stock market UI with dynamic data | JavaScript |
+| [dsa_python_ec](https://github.com/D3XK1M/dsa_python_ec) | Data structures & algorithms practice | Python |
+| [FoodShare-Nairobi](https://github.com/VictorNzai/FoodShare-Nairobi) | Connects food donors to charities in Nairobi | JavaScript |
+
+---
+
+## 💬 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Open to internships and junior roles — let's build something real together.</sub>
+</div>
