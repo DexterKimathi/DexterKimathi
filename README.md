@@ -95,7 +95,7 @@
 </div>
 
 <div align="center">
-  <sub>Open to internships and junior roles — let's build something real together.</sub>
+  <sub>let's build something real together.</sub>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:d79921,50:d65d0e,100:282828&height=120&section=footer" />
