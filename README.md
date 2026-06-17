@@ -71,16 +71,19 @@
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Pinned Work
+
+> The projects I’m most proud of — real apps, real scope, real shipping.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [EndeshaApp](https://github.com/DexterKimathi/EndeshaApp) | Rider-side ride-hailing app | Kotlin · Android |
-| [EndeshaDriver](https://github.com/DexterKimathi/EndeshaDriver) | Driver-side companion app | Kotlin · Android |
-| [Endesha-mobile](https://github.com/DexterKimathi/Endesha-mobile) | Mobile experience layer | Kotlin |
-| [Stock-Market](https://github.com/DexterKimathi/Stock-Market) | Stock market UI with dynamic data | JavaScript |
-| [dsa_python_ec](https://github.com/DexterKimathi/dsa_python_ec) | Data structures & algorithms practice | Python |
-| [FoodShare-Nairobi](https://github.com/VictorNzai/FoodShare-Nairobi) | Connects food donors to charities in Nairobi | JavaScript |
+| **[Endesha Platform](https://github.com/DexterKimathi/EndeshaApp)** | Full ride-hailing ecosystem with rider, driver, and mobile apps | Kotlin · JavaScript · Android |
+| ↳ [EndeshaApp](https://github.com/DexterKimathi/EndeshaApp) | Rider-side Android app | Kotlin |
+| ↳ [EndeshaDriver](https://github.com/DexterKimathi/EndeshaDriver) | Driver-side companion app | JavaScript |
+| ↳ [Endesha-mobile](https://github.com/DexterKimathi/Endesha-mobile) | Mobile experience layer | JavaScript |
+| [FoodShare-Nairobi](https://github.com/DexterKimathi/FoodShare-Nairobi) | Connects food donors to verified charities in Nairobi | HTML · JavaScript |
+| [Travello](https://github.com/DexterKimathi/Travello) | Travel-focused web experience | HTML · CSS |
+| [Stock-Market](https://github.com/DexterKimathi/Stock-Market) | Dynamic stock market UI with live-style data flows | JavaScript |
 
 ---
 
