@@ -17,18 +17,18 @@
 
 ---
 
-## ðŸ”¥ What I'm Up To
+## What I'm Up To
 
 | | |
 |---|---|
-| ðŸš€ **Building** | [Endesha](https://github.com/DexterKimathi/EndeshaApp) â€” a ride-hailing ecosystem (rider, driver & mobile) |
-| ðŸ“š **Learning** | Spring Boot Â· Kotlin coroutines Â· REST API design |
-| ðŸŽ¯ **Goal** | Backend or Android internship where I can ship real features fast |
-| ðŸŒ **Based** | Nairobi, Kenya |
+| **Building** | [Endesha](https://github.com/DexterKimathi/EndeshaApp) â€” a ride-hailing ecosystem (rider, driver & mobile) |
+| **Learning** | Spring Boot Â· Kotlin coroutines Â· REST API design |
+| **Goal** | Backend or Android internship where I can ship real features fast |
+| **Based** | Nairobi, Kenya |
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -53,7 +53,7 @@
 
 ---
 
-## ðŸ“Š GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -69,7 +69,7 @@
 
 ---
 
-## ðŸ† GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DexterKimathi&theme=gruvbox&no-frame=true&column=7&margin-w=4" />
@@ -77,7 +77,7 @@
 
 ---
 
-## ðŸš€ Featured Projects
+## Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -90,7 +90,7 @@
 
 ---
 
-## ðŸ’¬ Dev Quote
+## Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
