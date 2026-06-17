@@ -6,8 +6,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=DexterKimathi&label=Profile+Views&color=d79921&style=flat-square" />
-&nbsp;
 <a href="mailto:dextermunene05@gmail.com"><img src="https://img.shields.io/badge/Email-d65d0e?style=flat-square&logo=gmail&logoColor=white" /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/dexter-kimathi-982044328/"><img src="https://img.shields.io/badge/LinkedIn-458588?style=flat-square&logo=linkedin&logoColor=white" /></a>
