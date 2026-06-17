@@ -1,33 +1,34 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=D79921&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Dexter+Kimathi;Backend+%26+Android+Engineer+in+the+making;Building+real+products+that+ship;CS+Student+%40+Strathmore+University" alt="Typing SVG" />
 
+
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=D3XK1M&label=Profile+Views&color=d79921&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=DexterKimathi&label=Profile+Views&color=d79921&style=flat-square" />
 &nbsp;
 <a href="mailto:dextermunene05@gmail.com"><img src="https://img.shields.io/badge/Email-d65d0e?style=flat-square&logo=gmail&logoColor=white" /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/dexter-kimathi-982044328/"><img src="https://img.shields.io/badge/LinkedIn-458588?style=flat-square&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="https://github.com/D3XK1M"><img src="https://img.shields.io/badge/GitHub-282828?style=flat-square&logo=github&logoColor=ebdbb2" /></a>
+<a href="https://github.com/DexterKimathi"><img src="https://img.shields.io/badge/GitHub-282828?style=flat-square&logo=github&logoColor=ebdbb2" /></a>
 
 </div>
 
 ---
 
-## 🔥 What I'm Up To
+## ðŸ”¥ What I'm Up To
 
 | | |
 |---|---|
-| 🚀 **Building** | [Endesha](https://github.com/D3XK1M/EndeshaApp) — a ride-hailing ecosystem (rider, driver & mobile) |
-| 📚 **Learning** | Spring Boot · Kotlin coroutines · REST API design |
-| 🎯 **Goal** | Backend or Android internship where I can ship real features fast |
-| 🌍 **Based** | Nairobi, Kenya |
+| ðŸš€ **Building** | [Endesha](https://github.com/DexterKimathi/EndeshaApp) â€” a ride-hailing ecosystem (rider, driver & mobile) |
+| ðŸ“š **Learning** | Spring Boot Â· Kotlin coroutines Â· REST API design |
+| ðŸŽ¯ **Goal** | Backend or Android internship where I can ship real features fast |
+| ðŸŒ **Based** | Nairobi, Kenya |
 
 ---
 
-## 🛠️ Tech Stack
+## ðŸ› ï¸ Tech Stack
 
 **Languages**
 
@@ -52,44 +53,44 @@
 
 ---
 
-## 📊 GitHub Stats
+## ðŸ“Š GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=D3XK1M&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=DexterKimathi&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3XK1M&layout=compact&theme=gruvbox&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DexterKimathi&layout=compact&theme=gruvbox&hide_border=true" height="165" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=D3XK1M&theme=gruvbox&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=DexterKimathi&theme=gruvbox&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## ðŸ† GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=D3XK1M&theme=gruvbox&no-frame=true&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DexterKimathi&theme=gruvbox&no-frame=true&column=7&margin-w=4" />
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## ðŸš€ Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| [EndeshaApp](https://github.com/D3XK1M/EndeshaApp) | Rider-side ride-hailing app | Kotlin · Android |
-| [EndeshaDriver](https://github.com/D3XK1M/EndeshaDriver) | Driver-side companion app | Kotlin · Android |
-| [Endesha-mobile](https://github.com/D3XK1M/Endesha-mobile) | Mobile experience layer | Kotlin |
-| [Stock-Market](https://github.com/D3XK1M/Stock-Market) | Stock market UI with dynamic data | JavaScript |
-| [dsa_python_ec](https://github.com/D3XK1M/dsa_python_ec) | Data structures & algorithms practice | Python |
+| [EndeshaApp](https://github.com/DexterKimathi/EndeshaApp) | Rider-side ride-hailing app | Kotlin Â· Android |
+| [EndeshaDriver](https://github.com/DexterKimathi/EndeshaDriver) | Driver-side companion app | Kotlin Â· Android |
+| [Endesha-mobile](https://github.com/DexterKimathi/Endesha-mobile) | Mobile experience layer | Kotlin |
+| [Stock-Market](https://github.com/DexterKimathi/Stock-Market) | Stock market UI with dynamic data | JavaScript |
+| [dsa_python_ec](https://github.com/DexterKimathi/dsa_python_ec) | Data structures & algorithms practice | Python |
 | [FoodShare-Nairobi](https://github.com/VictorNzai/FoodShare-Nairobi) | Connects food donors to charities in Nairobi | JavaScript |
 
 ---
 
-## 💬 Dev Quote
+## ðŸ’¬ Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
@@ -98,5 +99,5 @@
 ---
 
 <div align="center">
-  <sub>Open to internships and junior roles — let's build something real together.</sub>
+  <sub>Open to internships and junior roles â€” let's build something real together.</sub>
 </div>
