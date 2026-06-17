@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=D79921&center=true&vCenter=true&width=700&height=60&lines=Hey+%F0%9F%91%8B+I'm+Dexter+Kimathi;Building+Endesha+%E2%80%94+a+ride-hailing+ecosystem;Backend+%26+Android+Engineer+in+the+making;CS+Student+%40+Strathmore+University;Open+to+internships+%26+junior+roles+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=D79921&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+Dexter+Kimathi;Building+Endesha+%E2%80%94+a+ride-hailing+ecosystem;Backend+%26+Android+Engineer+in+the+making;CS+Student+%40+Strathmore+University;Open+to+internships+%26+junior+roles" alt="Typing SVG" />
 
 <br/>
 
@@ -14,18 +14,24 @@
 
 ---
 
-## 🔥 What I'm Up To
+<h2 align="left">
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/briefcase.svg" width="22" height="22" align="top" />
+  What I'm Up To
+</h2>
 
 | | |
 |---|---|
-| 🚀 **Building** | [Endesha](https://github.com/DexterKimathi/EndeshaApp) — a ride-hailing ecosystem (rider, driver & mobile) |
-| 📚 **Learning** | Spring Boot · Kotlin coroutines · REST API design |
-| 🎯 **Goal** | Backend or Android internship where I can ship real features fast |
-| 🌍 **Based** | Nairobi, Kenya |
+| <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/rocket.svg" width="16" height="16" align="top" /> **Building** | [Endesha](https://github.com/DexterKimathi/EndeshaApp) — a ride-hailing ecosystem (rider, driver & mobile) |
+| <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/book-open.svg" width="16" height="16" align="top" /> **Learning** | Spring Boot · Kotlin coroutines · REST API design |
+| <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/target.svg" width="16" height="16" align="top" /> **Goal** | Backend or Android internship where I can ship real features fast |
+| <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/map-pin.svg" width="16" height="16" align="top" /> **Based** | Nairobi, Kenya |
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="left">
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/code-2.svg" width="22" height="22" align="top" />
+  Tech Stack
+</h2>
 
 <div align="center">
 
@@ -35,7 +41,10 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="left">
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/bar-chart-3.svg" width="22" height="22" align="top" />
+  GitHub Stats
+</h2>
 
 <div align="center">
 
@@ -51,7 +60,10 @@
 
 ---
 
-## 📈 Contribution Activity
+<h2 align="left">
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/activity.svg" width="22" height="22" align="top" />
+  Contribution Activity
+</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DexterKimathi&bg_color=282828&color=d79921&line=d65d0e&point=ebdbb2&area=true&hide_border=true" />
@@ -59,7 +71,10 @@
 
 ---
 
-## 🐍 Contributions Snake
+<h2 align="left">
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/grid-3x3.svg" width="22" height="22" align="top" />
+  Contribution Snake
+</h2>
 
 <div align="center">
   <picture>
@@ -71,9 +86,12 @@
 
 ---
 
-## 📌 Pinned Work
+<h2 align="left">
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/pin.svg" width="22" height="22" align="top" />
+  Pinned Work
+</h2>
 
-> The projects I’m most proud of — real apps, real scope, real shipping.
+> The projects I'm most proud of — real apps, real scope, real shipping.
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -87,7 +105,10 @@
 
 ---
 
-## 💬 Dev Quote
+<h2 align="left">
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/quote.svg" width="22" height="22" align="top" />
+  Dev Quote
+</h2>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
