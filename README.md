@@ -21,7 +21,7 @@
 
 | | |
 |---|---|
-| <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/rocket.svg" width="16" height="16" align="top" /> **Building** | [Endesha](https://github.com/DexterKimathi/EndeshaApp) — a ride-hailing ecosystem (rider, driver & mobile) |
+| <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/rocket.svg" width="16" height="16" align="top" /> **Building** | [Endesha](https://github.com/DexterKimathi/EndeshaApp) ,a ride-hailing ecosystem (rider, driver & mobile) |
 | <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/book-open.svg" width="16" height="16" align="top" /> **Learning** | Spring Boot · Kotlin coroutines · REST API design |
 | <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/target.svg" width="16" height="16" align="top" /> **Goal** | Backend or Android internship where I can ship real features fast |
 | <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/map-pin.svg" width="16" height="16" align="top" /> **Based** | Nairobi, Kenya |
