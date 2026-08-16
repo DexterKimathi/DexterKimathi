@@ -72,6 +72,25 @@
 ---
 
 <h2 align="left">
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/clock.svg" width="22" height="22" align="top" />
+  Profile Summary Cards
+</h2>
+
+> Generated daily via <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">github-profile-summary-cards</a> (GitHub Actions), a different tool from the stats cards above.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DexterKimathi/DexterKimathi/main/profile-summary-card-output/gruvbox/4-productive-time.svg" height="200" />
+&nbsp;
+<img src="https://raw.githubusercontent.com/DexterKimathi/DexterKimathi/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg" height="200" />
+&nbsp;
+<img src="https://raw.githubusercontent.com/DexterKimathi/DexterKimathi/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg" height="200" />
+
+</div>
+
+---
+
+<h2 align="left">
   <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/grid-3x3.svg" width="22" height="22" align="top" />
   Contribution Snake
 </h2>
